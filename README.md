@@ -33,3 +33,6 @@ third quartile in the data set.
 This project tries to visualize these important factors that determine the player’s real
 position in the team using the visualizing techniques and above mentioned
 visualization charts.
+
+
+![ipl](https://user-images.githubusercontent.com/69135317/135719771-1e59397a-8984-4113-a635-58c1c440d980.png)
